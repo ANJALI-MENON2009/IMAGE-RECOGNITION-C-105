@@ -1,0 +1,8 @@
+#resultImage {
+    border:2px dashed black;
+    width:400px;
+    height:350px;
+}
+#camera {
+    border:2px dashed black;
+}
